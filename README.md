@@ -7,5 +7,5 @@ For the project, I completed the following tasks:
 4. I wrote sample test cases in the TestRail tool for the Guru99 Bank Test application, conducted them, and generated a final report.
 5. After conducting tests and identifying defects, I wrote a defect report using the JIRA tool.
 6. I recorded one test conducted using Selenium IDE.
-7. I tested the API documentation for the playground [API 'restful-booker'](https://restful-booker.herokuapp.com/apidoc/index.html)https://restful-booker.herokuapp.com/apidoc/index.html using Postman.
+7. I tested the API documentation for the playground https://restful-booker.herokuapp.com/apidoc/index.html using Postman.
 8. 
