@@ -1,5 +1,5 @@
 # Final-Testing-Project-SDA
-This is the final project in the form of presentation that I created and successfully defended for the concluding exam of the Software Tester course at the Software Development Academy.
+
 For the project, I completed the following tasks: 
 1. I analyzed of Mr.Buggy7 documentation - familiarizing myself with the technical documentation of the MrBuggy7 project in order to understand and clarify the requirements set in the project, noting inconsistencies, errors, and writing several sample test cases based on the specifications.
 2. I prepared a list of project and product risks for the analyzed specification, including the identification of potential threats, issues, or challenges that may arise during the project.
